@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultiplierParityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-03T15:03:47" hostname="DESKTOP-B691CAR" time="0.013">
+  <properties/>
+  <testcase name="testMultiplyIntegers" classname="MultiplierParityTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
